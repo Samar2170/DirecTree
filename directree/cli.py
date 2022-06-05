@@ -22,7 +22,7 @@ def parse_cmd_line_args():
     parser.add_argument('-t','--tree',action='store_true',help='Print directories tree')
     return parser.parse_args()
 
-def main():
+def call():
     args = parse_cmd_line_args()
     root_dir=args.root_dir
     if args.tree:

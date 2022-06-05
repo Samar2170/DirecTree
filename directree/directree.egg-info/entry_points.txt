@@ -1,0 +1,2 @@
+[console_scripts]
+directree = directree.directree:main

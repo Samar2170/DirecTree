@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+directree/directree.egg-info/PKG-INFO
+directree/directree.egg-info/SOURCES.txt
+directree/directree.egg-info/dependency_links.txt
+directree/directree.egg-info/entry_points.txt
+directree/directree.egg-info/top_level.txt

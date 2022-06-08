@@ -10,7 +10,7 @@ setup (
     name = 'directree',
     description = 'Directories tree generator',
     packages=['directree'],
-    version='0.1.6',
+    version='0.1.7',
     license='MIT',
     python_requires='>=3.6',
     entry_points={

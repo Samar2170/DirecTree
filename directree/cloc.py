@@ -20,7 +20,7 @@ class Director:
         for k in files_lc_copy.keys():
             if files_lc_copy[k]['file_count']==0:
                 del self._files_lc[k]
-        
+        print("-------------------------------------------------------")
         print ("{:<8} {:<15} {:<10} ".format('Lang','Files','LOCs'))
         for k,v in self._files_lc.items():
             print("{:<8} {:<15} {:<10} ".format(k,v['file_count'],v['line_count']))

@@ -1,6 +1,13 @@
 README.md
-pyproject.toml
 setup.py
+directree/__init__.py
+directree/__main__.py
+directree/cfm.py
+directree/cli.py
+directree/cloc.py
+directree/constants.py
+directree/directree.py
+directree/lookup_dicts.py
 directree.egg-info/PKG-INFO
 directree.egg-info/SOURCES.txt
 directree.egg-info/dependency_links.txt

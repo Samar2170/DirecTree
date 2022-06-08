@@ -1,4 +1,3 @@
+[console_scripts]
+directree = directree.__main__:run
 
-        [console_scripts]
-        directree=directree.__main__:run
-    

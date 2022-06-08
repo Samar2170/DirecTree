@@ -1,2 +1,5 @@
-from directree.cli import call
-call()
+from directree.cli import run
+
+
+if __name__ == '__main__':
+    run()

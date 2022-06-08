@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+setup.py
+directree.egg-info/PKG-INFO
+directree.egg-info/SOURCES.txt
+directree.egg-info/dependency_links.txt
+directree.egg-info/entry_points.txt
+directree.egg-info/top_level.txt
